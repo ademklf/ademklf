@@ -18,5 +18,6 @@
   Connect with me:
   https://www.linkedin.com/in/adem-kalfali/
 
-  **Languages and Tools:
-  bootstrap || css3 || django || firebase || git || html5 || javascript || linux || mysql || python || react || redux || sass  **
+  **Languages and Tools:**
+  
+  **bootstrap || css3 || django || firebase || git || html5 || javascript || linux || mysql || python || react || redux || sass** 
