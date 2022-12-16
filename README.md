@@ -1,7 +1,6 @@
 
-
-          Hi 👋, I'm Adem KALFALI
-          
+   **Hi 👋, I'm Adem KALFALI**
+   
    Eager to learn various technologies, tools, libraries
 
   🌱 I’m currently learning **Full Stack Development**
