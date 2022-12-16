@@ -21,4 +21,4 @@
   **Languages and Tools:**
   
   **bootstrap || css3 || django || firebase || git || html5 || javascript || linux || mysql || python || react || redux || sass** 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg
+
