@@ -1,5 +1,3 @@
-  ademklf/README.md   
-
             **Hi 👋, I'm Adem KALFALI**
 
   Eager to learn various technologies, tools, libraries
