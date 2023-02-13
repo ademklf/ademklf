@@ -19,8 +19,7 @@
 
   **Languages and Tools:**
   
-![image](https://user-images.githubusercontent.com/85417186/218495295-151f0bce-50b3-43d0-9034-cf2718cfd990.png)
-https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg
+
   
   **bootstrap || css3 || django || firebase || git || html5 || javascript || linux || mysql || python || react || redux || sass** 
 
