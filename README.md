@@ -19,7 +19,7 @@
 
   **Languages and Tools:**
   
-https://getbootstrap.com/ 
+bootstrap 
   
   **bootstrap || css3 || django || firebase || git || html5 || javascript || linux || mysql || python || react || redux || sass** 
 
